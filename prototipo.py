@@ -25,6 +25,3 @@ elif sobra > (salario*0.3) and sobra < (salario*0.5):
 
 elif sobra > (salario*0.5):
     print(f'Está sobrando {sobrapercentual}% do seu salário, considere investir uma parte dessa sobra para gerar lucro pra você.')
-
-else:
-    print("Valor inválido")
