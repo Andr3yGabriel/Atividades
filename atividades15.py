@@ -26,7 +26,7 @@ while True:
     elif jogador == 'Tesoura' and opcao_escolhida == 'Pedra':
         print(f'Computador ganhou pois escolheu {opcao_escolhida}')
 
-    elif jogador == 'TEsoura' and opcao_escolhida == 'Papel':
+    elif jogador == 'Tesoura' and opcao_escolhida == 'Papel':
         print(f'Jogador ganhou pois a escolha do computador foi {opcao_escolhida}')
 
     else:
